@@ -1,4 +1,6 @@
 # character-backstory-generator
+Character Background Story Generator is an AI-powered tool that creates rich and imaginative backstories for fictional characters using the lightweight DistilGPT-2 language model. Designed for writers, game developers, and RPG enthusiasts, this tool helps bring characters to life with compelling and unique narratives.
+
 # DistilBERT
 DistilBERT is pretrained by knowledge distillation to create a smaller model with faster inference and requires less compute to train. Through a triple loss objective during pretraining, language modeling loss, distillation loss, cosine-distance loss, DistilBERT demonstrates similar performance to a larger transformer language model.
 
