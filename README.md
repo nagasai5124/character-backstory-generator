@@ -29,6 +29,10 @@ Backend (Python)
    |-- Output: Sends story back to frontend for display
 
 
+# Dependencies
+transformers
+torch
+streamlit
 
 
 # how to run and install 
@@ -52,3 +56,7 @@ Copy IP address
 The line %%writefile app.py writes the Streamlit app code to a file named app.py.
 # !streamlit run app.py & npx localtunnel --port 8501
 to expose the locally running Streamlit app to the internet. The app is hosted on port 8501
+
+# outputs
+![output image](https://github.com/nagasai5124/character-backstory-generator/blob/main/Streamlit%20-%20Google%20Chrome%204_9_2025%206_18_26%20PM.png)
+
