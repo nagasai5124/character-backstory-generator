@@ -19,7 +19,6 @@ The second line (!wget -q -O - ipv4.icanhazip.com) retrieves your external IP ad
 
 Copy IP address
 
-The line %%writefile app.py writes the Streamlit app code to a file named app.py. The Streamlit app itself is a simple calculator. It takes two input numbers, adds them together, and displays the result.
-
+The line %%writefile app.py writes the Streamlit app code to a file named app.py.
 # !streamlit run app.py & npx localtunnel --port 8501
 to expose the locally running Streamlit app to the internet. The app is hosted on port 8501
