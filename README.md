@@ -60,3 +60,4 @@ to expose the locally running Streamlit app to the internet. The app is hosted o
 # outputs
 ![output image](https://github.com/nagasai5124/character-backstory-generator/blob/main/Streamlit%20-%20Google%20Chrome%204_9_2025%206_18_26%20PM.png)
 
+<!-- Uploading "Streamlit - Google Chrome 2025-04-10 13-57-01.mp4"... -->
