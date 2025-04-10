@@ -13,6 +13,19 @@ Lower resource consumption
 
 Still capable of creative, coherent text generation
 
+# Architecture
+
+Frontend (e.g., Streamlit or Flask)
+   |
+   |-- User Input: Character name, Race,class
+   |
+Backend (Python)
+   |
+   |-- Prompt Engineering: Constructs input prompt for DistilGPT-2
+   |-- Text Generation: Generates story using Hugging Face's Transformers
+   |-- Output: Sends story back to frontend for display
+
+
 # how to run and install 
 To create a Python environment (using venv), open your terminal, navigate to your project directory, and run 
 
