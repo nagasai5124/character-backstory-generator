@@ -5,7 +5,7 @@ DistilBERT is pretrained by knowledge distillation to create a smaller model wit
 # Model: DistilGPT-2
 Base Model: distilgpt2 (a distilled version of OpenAI’s GPT-2)
 
-Advantages:\n
+Advantages:
 
 Smaller and faster than GPT-2
 
@@ -16,7 +16,8 @@ Still capable of creative, coherent text generation
 # how to run and install 
 To create a Python environment (using venv), open your terminal, navigate to your project directory, and run 
 
-1, python3 -m venv\n
+1, python3 -m venv
+
 2, pip install -r /path/to/requirements.txt
 
 # Running Streamlit code in Google Colab involves a few steps.
